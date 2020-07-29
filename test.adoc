@@ -1,1 +1,1 @@
-= Test ADOC FILE --------------Started With Spring REST Docs
+= Test .adoc file from GitHub --------------Started With Spring REST Docs
